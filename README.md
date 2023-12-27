@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 - 🤔 My full name is Bea Bianca Roxas Ancheta
 - 🌱 I'm currently learning Web Development
 - 🎓 I'm studying Computer Science at Mapua Malayan Colleges Laguna
@@ -28,4 +26,4 @@ Example : git log
 When to use = To copy a remote repository to your local computer
 Parameters  = remote repository's URL.
 Example : git clone https://github.com/beabiiancheta/beabiiancheta.git
--->
+
